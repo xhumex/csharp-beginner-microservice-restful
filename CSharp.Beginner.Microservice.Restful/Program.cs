@@ -1,10 +1,10 @@
 ﻿/**
  *  Program.cs
  * 
- *  author   Cristian Hume Henriquez
- *  version  1.0.0
- *  created  2022-11-27
- *  modified 2022-11-27
+ *  Author   Cristian Hume Henriquez
+ *  Version  1.0.0
+ *  Created  2022-11-27
+ *  Modified 2022-11-28
  */
 var builder = WebApplication.CreateBuilder(args);
 
